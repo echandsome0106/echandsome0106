@@ -22,9 +22,6 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
 - 🥅 2025 Goals: $100000
 - ⚡ Fun fact: I like code and beautiful girl 🤣🤣
 
-<--
-💡 Want to see more? Check out my ****. 
--->
 <h2> Visitor count  </h2>
 
 <div align="left">  
