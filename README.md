@@ -43,12 +43,6 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echandsome0106&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   <br/>
 
-[![Qasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=echandsome&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)]()
-
-</div>
-
-<br/>
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=echandsome0106&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
