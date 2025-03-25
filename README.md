@@ -29,14 +29,6 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
 </div>
 <br>
 
-<h2> Profile Stats  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
-
-<div align="center" >
-
-### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=echandsome0106&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 <table align="center">
@@ -116,6 +108,15 @@ I am a **full-stack developer** with **5+ years of freelancing experience**, spe
     </td>
   </tr>
 </table>
+<br>
+
+<h2> Profile Stats  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
+
+<div align="center" >
+
+### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=echandsome0106&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
 
